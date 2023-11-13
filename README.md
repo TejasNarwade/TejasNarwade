@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejasNarwade
 - 👀 I’m interested in Technology & Computer Science
-- 🌱 I’m currently studying in BCA(Bachelor of Computer Application)
+- 🌱 I’m currently pursuing Computer Engineering 
 - 💞️ I’m looking for a internship
 - 📫 Reach me - tejasnarwade2k5@gmail.com
 
